@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="hello">Hello World, Principal!</string>
-    <string name="app_name">Test ACT</string>
-    <string name="texto">Digite um texto</string>
-    <string name="fechar">Fechar</string>
-    <string name="chamar">Chamar</string>
-    <string name="titulo">Digitado na activity</string>
-</resources>
